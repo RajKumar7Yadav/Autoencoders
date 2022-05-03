@@ -5,6 +5,6 @@ Autoencoders are neural networks ,where the architecture is designed in such as 
 
 There are many benefits of autoencoders,mainly used in:-
 
--Image Denoising.
+- Image Denoising.
 
-- Image Compression
+- Image Compression.
